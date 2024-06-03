@@ -6,4 +6,4 @@ My internship project
 * write my own yara rules based on IoCs of such families
 * link it to vt-intelligence
 
--> If the True Positives are above 70-80%, I'll be writing yara rules for a malware generalizing algorithm
+<b>If the True Positives are above 70-80%, I'll be writing yara rules for a malware generalizing algorithm</b>
